@@ -16,7 +16,7 @@ This project focuses on analyzing customer data to identify patterns and build a
   - Visualizations to uncover trends and correlations.
   - Distribution analysis for key features.
 - **Model Development**:
-  - Training models like Logistic Regression, Random Forest, or others.
+  - Training models like Logistic Regression and Random Forest.
   - Cross-validation for reliable performance metrics.
 - **Evaluation Metrics**:
   - Accuracy, Precision, Recall, F1-score, and Confusion Matrix.
